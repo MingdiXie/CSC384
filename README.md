@@ -1,3 +1,4 @@
 # CSC384-Introduction-to-Artificial-Intelligence
 AI
-![pacman hunt](https://i.ytimg.com/vi/zHRlCSUe0Q0/maxresdefault.jpg)
+![AI pacman](https://i.ytimg.com/vi/zHRlCSUe0Q0/maxresdefault.jpg)
+![Grandpac hunt](https://donarthurzhang.files.wordpress.com/2017/11/busters.png?w=599)
