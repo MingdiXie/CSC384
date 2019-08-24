@@ -1,0 +1,4 @@
+
+1. We can divide our heuristic value by 1.2 to get a new heuristic function, and this will guarantee that the estimate cost will never overestimate the actual cost, which implies admissible such that the algorithm will find the optimal solution(if one exists).
+
+2. False, because the cost of moving vertically or horizontally is fixed no matter how many squares one xanadus by pass. Therefore if we count the Manhattan distances using squares, our heuristic will overestimate the actual cost, which is not admissible.
